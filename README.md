@@ -5,4 +5,5 @@
 ## Tech:
 - HTML5
 
-### [Click Here for Live Project](https://tien96ng.github.io/cat-photo-app-example/)
+### <a href="https://github.com/Tien96ng/cat-photo-app-example" target=_blank>
+Click Here for Live Link </a>
