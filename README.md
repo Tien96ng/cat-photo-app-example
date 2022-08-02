@@ -5,5 +5,4 @@
 ## Tech:
 - HTML5
 
-
-[Click Here for Live Link](https://tien96ng.github.io/cat-photo-app-example/){:target="_blank"}
+[Click Here for Live Link](hhttps://tien96ng.github.io/cat-photo-app-example/target=_blank)
